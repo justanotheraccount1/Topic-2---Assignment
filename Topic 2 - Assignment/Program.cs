@@ -21,7 +21,7 @@
             Console.WriteLine("When the '+' character is used around strings, C# knows it can't add them so it connects them.");
             Console.WriteLine();
 
-            Console.WriteLine("When the '+' character is used anound ints and floats, C# knows to add them together");
+            Console.WriteLine("When the '+' character is used around ints and floats, C# knows to add them together");
             
             Console.ReadLine();
         }
